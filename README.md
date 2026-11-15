@@ -126,7 +126,7 @@ klasifikasi-katarak-fundus/
 ## Cara menjalankan
 
 ```bash
-git clone https://github.com/<username>/klasifikasi-katarak-fundus.git
+git clone https://github.com/winntzy/klasifikasi-katarak-fundus.git
 cd klasifikasi-katarak-fundus
 
 python -m venv .venv
