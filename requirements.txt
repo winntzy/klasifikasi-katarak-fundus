@@ -1,0 +1,15 @@
+# Versi yang dipakai pada eksperimen: Python 3.13, TensorFlow 2.21.0.
+# TensorFlow 2.16 atau lebih baru dibutuhkan (Keras 3, format model .keras).
+tensorflow>=2.16
+numpy>=1.26
+pandas>=2.0
+openpyxl>=3.1
+opencv-python>=4.8
+scikit-learn>=1.3
+matplotlib>=3.7
+seaborn>=0.12
+tqdm>=4.66
+
+# Menjalankan notebook
+jupyterlab>=4.0
+ipywidgets>=8.0

@@ -1,0 +1,4 @@
+split,total,katarak,normal,rasio_normal_katarak
+Train,2153,221,1932,8.74
+Val,466,47,419,8.91
+Test,462,45,417,9.27
